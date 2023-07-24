@@ -37,6 +37,8 @@ rake install_jars
 - Update your dependencies
 
 ```sh
+gem install bundler -v 2.3.26
+bundle install
 bundle install
 ```
 
